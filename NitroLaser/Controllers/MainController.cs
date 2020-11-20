@@ -113,7 +113,7 @@ namespace NitroLaser.Controllers
                 System.Net.NetworkCredential credential = new System.Net.NetworkCredential();
 
                 credential.UserName = "info@delta-persia.com";
-                credential.Password = "1234@abcd";
+                credential.Password = "jaroobarghi2487!";
                 smtp.EnableSsl = false;
                 smtp.Credentials = credential;
                 smtp.Send(mail);
